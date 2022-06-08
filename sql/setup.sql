@@ -17,6 +17,6 @@ INSERT INTO cats (name, type) VALUES
 ('Duchess', 'Angora'),
 ('Stimpy', 'Manx'),
 ('Sylvester', 'Tuxedo'),
-('Tigger', 'Tigger'),
+('Tigger', 'Tiger'),
 ('Hello Kitty', 'Angora'),
 ('Hobbes', 'Tiger');
