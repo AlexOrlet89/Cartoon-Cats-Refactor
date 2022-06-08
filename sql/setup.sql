@@ -12,11 +12,11 @@ create table cats (
 );
 
 INSERT INTO cats (name, type) VALUES
-('Felix', 'Tuxedo')
-('Garfield', 'Orange Tabby')
-('Duchess', 'Angora')
-('Stimpy', 'Manx')
-('Sylvester', 'Tuxedo')
-('Tigger', 'Tigger')
-('Hello Kitty', 'Angora')
-('Hobbes', 'Tiger')
+('Felix', 'Tuxedo'),
+('Garfield', 'Orange Tabby'),
+('Duchess', 'Angora'),
+('Stimpy', 'Manx'),
+('Sylvester', 'Tuxedo'),
+('Tigger', 'Tigger'),
+('Hello Kitty', 'Angora'),
+('Hobbes', 'Tiger');
